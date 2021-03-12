@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseURL = "https://kxkj-xian.github.io/website-mumazhe/"
+baseURL = "http://mumazhe.net/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
