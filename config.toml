@@ -3,40 +3,40 @@ baseURL = "https://www.mumazhe.net/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Mumazhe"
+title = "牧码者"
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "首页"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "关于我们"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Service"
+name = "服务范围"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
+name = "作品展示"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "发展经历"
 url = "#resume"
 weight = 5
 [[menu.main]]
-name = "Blog"
+name = "最新动态"
 url = "#blog"
 weight = 6
 [[menu.main]]
-name = "Contact"
+name = "联系我们"
 url = "#contact"
 weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
+name = "关于我们"
 url = "about"
 weight = 1
 [[menu.sitemap]]

@@ -5,10 +5,10 @@
     <loc>https://www.mumazhe.net/blog/markdown-formatting-demo/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>https://www.mumazhe.net/</loc>
+    <loc>https://www.mumazhe.net/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>https://www.mumazhe.net/blog/</loc>
+    <loc>https://www.mumazhe.net/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>https://www.mumazhe.net/portfolio/</loc>
@@ -52,8 +52,8 @@
   </url><url>
     <loc>https://www.mumazhe.net/categories/</loc>
   </url><url>
-    <loc>https://www.mumazhe.net/contact/</loc>
-  </url><url>
     <loc>https://www.mumazhe.net/tags/</loc>
+  </url><url>
+    <loc>https://www.mumazhe.net/contact/</loc>
   </url>
 </urlset>

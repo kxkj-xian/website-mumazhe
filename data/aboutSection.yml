@@ -1,19 +1,16 @@
 ---
 enable: true
-topTitle: About
+#topTitle: About
 title: >
-  ## About me
+  ## 关于我们
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  我们是由一群经验丰富的互联网、物联网行业工作者组成的小团体。
 content: >
-  ### I design and build ultimate things.
+  ### 我们的价值观
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
+  我们致力于借助互联网行业的力量，赋能传统中小企业或个体经营者，通过定制化解决方案将传统经营活动进行互联网化转化扩张，使经营效益实现更大化。
+  我们的价值就是帮助客户实现价值。
+button1Name: 联系我们
 button2Name: Download CV
 button1Target: contact
 button2Target: contact

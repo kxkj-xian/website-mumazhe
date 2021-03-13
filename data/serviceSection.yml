@@ -2,44 +2,23 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## 服务范围
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### 网站建站服务定制
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### 小程序开发定制
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### 聚合支付定制
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### 人脸识别软硬件定制
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

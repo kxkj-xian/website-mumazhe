@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+#topTitle:
 content: >
-  # I am here for your personal business
+  ### 西安牧码者信息科技有限公司
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  致力于服务传统中、小企业及个体经营者，提供实体线下业务定制化上云解决方案。
+buttonName: 联系我们
 buttonURL: contact
 image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
