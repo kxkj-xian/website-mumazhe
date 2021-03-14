@@ -62,10 +62,10 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "陕西省西咸新区沣东新城世纪大道中段南侧西咸人才大厦七层C2-210"
+email = "public1@mail.mumazhe.net"
+openingHours = "周一到周五，9：00-18：00。"
+phone = "+86 178 1030 1001"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
